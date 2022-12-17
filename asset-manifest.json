@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//:Valentyn13.github.io/defi-deploy/static/css/main.4786841a.css",
+    "main.js": "/https//:Valentyn13.github.io/defi-deploy/static/js/main.d4a04e00.js",
+    "static/media/video.mp4": "/https//:Valentyn13.github.io/defi-deploy/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/2781013183.mp4": "/https//:Valentyn13.github.io/defi-deploy/static/media/2781013183.da4f0920885d19615c04.mp4",
+    "static/media/dao.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/dao.a6366e8b45f0c87234b5.webp",
+    "static/media/community-header.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/community-header.34b8b4811e3b80b26821.webp",
+    "static/media/wallet-buy.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/wallet-buy.f47fe0bf3536fcc82bfe.webp",
+    "static/media/about-img.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/about-img.ee3de643f07cefe80fd2.webp",
+    "static/media/discord.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/discord.941e3603547494c02f75.webp",
+    "static/media/twitter.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/twitter.6f157b8030dd5b66a747.webp",
+    "static/media/news-image.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/news-image.4b2418d645f38bc6e2ef.webp",
+    "static/media/telegram.webp": "/https//:Valentyn13.github.io/defi-deploy/static/media/telegram.3875af48b17d7e59558a.webp",
+    "index.html": "/https//:Valentyn13.github.io/defi-deploy/index.html",
+    "main.4786841a.css.map": "/https//:Valentyn13.github.io/defi-deploy/static/css/main.4786841a.css.map",
+    "main.d4a04e00.js.map": "/https//:Valentyn13.github.io/defi-deploy/static/js/main.d4a04e00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4786841a.css",
+    "static/js/main.d4a04e00.js"
+  ]
+}
